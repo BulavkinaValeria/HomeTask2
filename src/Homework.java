@@ -4,5 +4,6 @@ public class Homework {
         int d = 6;
         System.out.println(a);
         System.out.println(d);
+        System.out.println();
     }
 }
